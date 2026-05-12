@@ -81,6 +81,7 @@ ul>li>a>span {
     /* border: 1px solid black; */
     color: white;
     border-radius: 16px;
+    margin-bottom: 100px;
 }
 
 #banner-container>div {
@@ -314,3 +315,14 @@ button {
 .orange{
     color: #FF5400;
 }
+
+
+/* Tours */
+
+.popular-tours{
+    max-width: 73%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+
